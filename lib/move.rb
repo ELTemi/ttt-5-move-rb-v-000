@@ -17,5 +17,4 @@ def move(board, index, value="X")
   board[index] = value
 end
 
-move(board, 4, "X")
-display_board(board)
+
